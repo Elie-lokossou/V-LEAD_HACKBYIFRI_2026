@@ -124,7 +124,7 @@ Ouvre [http://localhost:5173](http://localhost:5173)
 | Rôle | Email | Mot de passe |
 |------|-------|--------------|
 | Admin | `admin@ifri.uac.bj` | `Admin@IFRI2024` |
-| Étudiant | `elielokossou7@gmail.com` | `password123` |
+| Étudiant | `elielokossou7@gmail.com` | `Elie@IFRI2024` |
 
 ---
 
