@@ -179,18 +179,6 @@ authorized_students → Whitelist des étudiants autorisés
 
 ---
 
-## 📅 Historique du projet
-
-| Date | Étape |
-|------|-------|
-| 15 fév. 2026 | Lancement officiel du projet |
-| 16 fév. 2026 | Répartition des tâches |
-| 18 fév. 2026 | Compte rendu & création GitHub |
-| 19 fév. 2026 | Lecture collective et corrections |
-| 20 fév. 2026 | Finalisation du rapport |
-| 21 fév. 2026 | Répétition générale avant présentation |
-
----
 
 ## 📄 Licence
 
