@@ -121,10 +121,7 @@ Ouvre [http://localhost:5173](http://localhost:5173)
 
 ## 🔐 Accès de démonstration
 
-| Rôle | Email | Mot de passe |
-|------|-------|--------------|
-| Admin | `admin@ifri.uac.bj` | `Admin@IFRI2024` |
-| Étudiant | `elielokossou7@gmail.com` | `Elie@IFRI2024` |
+Des comptes de démonstration (administrateur et étudiant) permettent de tester la plateforme. Pour des raisons de sécurité, les identifiants ne sont pas publiés dans ce dépôt : ils sont fournis sur demande par l'équipe.
 
 ---
 
